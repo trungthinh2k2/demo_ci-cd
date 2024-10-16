@@ -68,6 +68,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>springboot-github-actions</finalName>
     </build>
 
 </project>
